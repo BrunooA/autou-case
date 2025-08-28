@@ -1,0 +1,8 @@
+body {
+    background: #f4f6f8; /* sobrescreve o body do Bootstrap */
+}
+
+.card {
+    border-radius: 12px;
+    box-shadow: 0px 4px 15px rgba(0,0,0,0.1); /* reforça estilo */
+}
